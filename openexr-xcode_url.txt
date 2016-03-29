@@ -1,0 +1,2 @@
+from https://github.com/openexr/openexr/issues/47
+LMBASE_PACKAGE_PREFIX
